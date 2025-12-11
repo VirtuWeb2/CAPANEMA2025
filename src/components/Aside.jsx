@@ -113,7 +113,7 @@ const Aside = ({ tvPosts, uniqueNews }) => {
         </div>
         
           <a
-          href="https://www.facebook.com/enoticiapara"
+          href="https://www.facebook.com/enoticiacapanema"
           target="_blank"
           className="bg-blue-900 flex gap-[1rem] text-[1.6rem] font-semibold p-[1rem] rounded-md items-center text-white mt-[1rem] socBox facebook"
         >
